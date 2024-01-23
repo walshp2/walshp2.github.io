@@ -1,0 +1,1344 @@
+[
+    {
+        "id": 1,
+      "bandname": "Pearl Jam",
+      "subscribers": 2090000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Soundgarden_at_Paramount_Theatre.jpg/300px-Soundgarden_at_Paramount_Theatre.jpg"
+    },
+    {
+        "id": 2,
+      "bandname": "Soundgarden",
+      "subscribers": 759000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PearlJam-Amsterdam-2012_%28cropped%29.jpg/300px-PearlJam-Amsterdam-2012_%28cropped%29.jpg"
+    },
+    {
+        "id": 3,
+      "bandname": "Sean Combs (P Diddy)",
+      "subscribers": 780000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sean_Combs_2010.jpg/220px-Sean_Combs_2010.jpg" 
+    },
+    {
+        "id": 4,
+      "bandname": "Jay Z",
+      "subscribers": 3500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg/220px-Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg"
+    },
+    {
+        "id": 5,
+    "bandname": "Blues Traveler",
+      "subscribers": 96900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/BluesTraveler2012.jpg/220px-BluesTraveler2012.jpg"
+    },
+    {
+        "id": 6,
+      "bandname": "The Killers",
+      "subscribers": 2430000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/KillersBST080717-38_%2835742625041%29_%28cropped%29.jpg/300px-KillersBST080717-38_%2835742625041%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 7,
+      "bandname": "Britney Spears", 
+      "subscribers": 10500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+    },
+    {
+      "id": 8,
+      "bandname": "Lady Gaga",
+      "subscribers": 23700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg"
+    },
+    {
+      "id": 9,
+      "bandname": "Lagwagon",
+      "subscribers": 14400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lagwagon-in-tochka.jpg"
+    },
+    {
+      "id": 10,
+      "bandname": "NOFX", 
+      "subscribers": 84000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/NOFX3.jpg"
+    },
+    {
+      "id": 11,
+      "bandname": "Gym Class Heroes", 
+      "subscribers": 158000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Gym_Class_Heroes_by_foto-di-matti_6038.jpg"
+    },
+    {
+      "id": 12,
+      "bandname": "Outkast",
+      "subscribers": 1960000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/OutKast_2001.jpg"
+    },
+    {
+      "id": 13,
+      "bandname": "Guns N' Roses", 
+      "subscribers": 11700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Glasto2023_Guns_%27N%27_Roses_%28sans_Dave_Grohl%29.jpg"
+    },
+    {
+      "id": 14,
+      "bandname": "Bon Jovi",
+      "subscribers": 7880000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bonjoviband2013.png"
+    },
+    {
+      "id": 15,
+      "bandname": "No Use For A Name",
+      "subscribers": 10700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/No_Use_for_a_Name_2012-01-09_01.jpg"
+    },
+    {
+      "id": 16,
+      "bandname": "Face to Face", 
+      "subscribers": 25900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Face_to_face_-_Fillmore_Auditorium%2C_Denver_-_April_2022.jpg"
+    },
+    {
+      "id": 17,
+      "bandname": "Bad Religion", 
+      "subscribers": 87600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hellfest2018BadReligion_07.jpg"
+    },
+    {
+      "id": 18,
+      "bandname": "Pennywise",
+      "subscribers": 540000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pennywise_Warped_Tour_%28cropped%29.jpg"
+    },
+    {
+      "id": 19,
+      "bandname": "Pink", 
+      "subscribers": 12300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pink_2019-07-27_Munich_%28cropped%29.jpg"
+    },
+    {
+      "id": 20,
+      "bandname": "Pink Floyd",
+      "subscribers": 3910000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg"
+    },
+    {
+      "id": 21,
+      "bandname": "The Beatles",
+      "subscribers": 8050000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg"
+    },
+    {
+      "id": 22,
+      "bandname": "The Rolling Stones", 
+      "subscribers": 3130000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg"
+    },
+    {
+      "id": 23,
+      "bandname": "Daft Punk", 
+      "subscribers": 6130000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Daft_Punk_in_2013.jpg"
+    },
+    {
+      "id": 24,
+      "bandname": "Blur",
+      "subscribers": 459000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/BlurWembley090723_%28166_of_172%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 25,
+      "bandname": "Bauhaus", 
+      "subscribers": 61300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bauhaus_August_2006_UK.jpg"
+    },
+    {
+      "id": 26,
+      "bandname": "INXS",
+      "subscribers": 581000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/INXS_performs_at_Campbelltown_RSL_Club%2C_Sydney.jpg"
+    },
+    {
+      "id": 27,
+      "bandname": "Jeff Beck",
+      "subscribers": 166000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Jeff_Beck_in_Amsterdam_1979_%28cropped%29.jpg"
+    },
+    {
+      "id": 28,
+      "bandname": "Beck", 
+      "subscribers": 482000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/BeckMSG190718-13_%2847065153261%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 29,
+      "bandname": "Neil Young", 
+      "subscribers": 629000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DesertTrip2016-140_%2829685063324%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 30,
+      "bandname": "Stephen Stills",
+      "subscribers": 165000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Stephen_Stills_2012-10-22_2.jpg"
+    }, 
+    {
+      "id": 31,
+      "bandname": "Mumford & Sons",
+      "subscribers": 1400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/MS2015.jpg"
+    },
+    {
+      "id": 32,
+      "bandname": "The Lumineers", 
+      "subscribers": 2340000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Lumineers_performing_at_Wrigley_Field_in_2022.jpg"
+    },
+    {
+      "id": 33,
+      "bandname": "Weird Al Yankovic",
+      "subscribers": 2590000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AlYankovicByKristineSlipson.jpg"
+    },
+    {
+      "id": 34,
+      "bandname": "Madonna",
+      "subscribers": 6790000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 35,
+      "bandname": "Rage Against The Machine", 
+      "subscribers": 1120000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Rage_Against_The_Machine_%28cropped%29.jpg"
+    },
+    {
+      "id": 36,
+      "bandname": "Johnny Cash", 
+      "subscribers": 1670000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg"
+    },
+    {
+      "id": 37,
+      "bandname": "Matchbox Twenty",
+      "subscribers": 725000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Matchbox_twenty_in_MAA_03.jpg"
+    },
+    {
+      "id": 38,
+      "bandname": "The Goo Goo Dolls", 
+      "subscribers": 1030000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Goo_Goo_Dolls_2013_1.jpg"
+    },
+    {
+      "id": 39,
+      "bandname": "Metallica",
+      "subscribers": 10200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg"
+    },
+    {
+      "id": 40,
+      "bandname": "Megadeth",
+      "subscribers": 1370000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Megadeth_Live_at_The_O2_2018-06-16.jpg"
+    },
+    {
+      "id": 41,
+      "bandname": "Rihanna", 
+      "subscribers": 42600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png"
+    },
+    {
+      "id": 42,
+      "bandname": "Chris Brown", 
+      "subscribers": 26000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/CB_Exchange_Miami.png"
+    },
+    {
+      "id": 43,
+      "bandname": "Ramones",
+      "subscribers": 403000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ramones_rocket_to_russia_photo.jpg"
+    },
+    {
+      "id": 44,
+      "bandname": "Operation Ivy", 
+      "subscribers": 10000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg"
+    },
+    {
+      "id": 45,
+      "bandname": "Guns N' Roses",
+      "subscribers": 11700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Glasto2023_Guns_%27N%27_Roses_%28sans_Dave_Grohl%29.jpg"
+    },
+    {
+      "id": 46,
+      "bandname": "Mötley Crüe",
+      "subscribers": 1060000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/M%C3%B6tley_Cr%C3%BCe%2C_Sweden_Rock_2012.jpg"
+    },
+    {
+      "id": 47,
+      "bandname": "Phoenix", 
+      "subscribers": 200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Phoenix_Piknik_i_Parken_2018_%28214800%29.jpg"
+    },
+    {
+      "id": 48,
+      "bandname": "100 gecs", 
+      "subscribers": 321000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/100_gecs.jpg"
+    },
+    {
+      "id": 49,
+      "bandname": "The Smiths",
+      "subscribers": 904000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Smiths_1985.jpg"
+    },
+    {
+      "id": 50,
+      "bandname": "The Cure", 
+      "subscribers": 1310000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Cure_Live_in_Singapore_2-_1st_August_2007.jpg"
+    },
+    {
+      "id": 51,
+      "bandname": "Alice Cooper",
+      "subscribers": 632000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Alice_Cooper_2011.jpg"
+    },
+    {
+      "id": 52,
+      "bandname": "Ben Folds Five",
+      "subscribers": 81000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Benfoldsfivereunionlive.jpg"
+    },
+    {
+      "id": 53,
+      "bandname": "Lil Wayne", 
+      "subscribers": 12500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/LIL_WAYNE_BY_CHRIS_ALLMEID.jpg"
+    },
+    {
+      "id": 54,
+      "bandname": "Drake", 
+      "subscribers": 29100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Drake_July_2016.jpg"
+    },
+    {
+      "id": 55,
+      "bandname": "Jets To Brazil",
+      "subscribers": 1580,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jets_To_Brazil_at_The_Catalyst%2C_Santa_Cruz%2C_2001-04-29.jpg"
+    },
+    {
+      "id": 56,
+      "bandname": "Jawbreaker", 
+      "subscribers": 3720,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jawbreaker_performing_in_Denver%2C_April_2022.jpg"
+    },
+    {
+      "id": 57,
+      "bandname": "The Archies",
+      "subscribers": 74000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Archie_Show.jpg"
+    },
+    {
+      "id": 58,
+      "bandname": "Josie and the Pussycats",
+      "subscribers": 1470,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Josie-hannabarbera-title.jpg"
+    },
+    {
+      "id": 59,
+      "bandname": "Taylor Swift", 
+      "subscribers": 56000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png"
+    },
+    {
+      "id": 60,
+      "bandname": "Kanye West", 
+      "subscribers": 9960000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg"
+    },
+    {
+      "id": 61,
+      "bandname": "Hans Zimmer",
+      "subscribers": 1030000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hans-Zimmer-profile.jpg"
+    },
+    {
+      "id": 62,
+      "bandname": "John Williams", 
+      "subscribers": 249000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Williams_with_Boston_Pops-1.jpg"
+    },
+    {
+      "id": 63,
+      "bandname": "Anti-Flag",
+      "subscribers": 69300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Anti-Flag_-_Reload_Festival_2017_00.jpg"
+    },
+    {
+      "id": 64,
+      "bandname": "AFI",
+      "subscribers": 277000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/AFI_Birmingham_2010.JPG"
+    },
+    {
+      "id": 65,
+      "bandname": "Elton John", 
+      "subscribers": 4300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Glasto2023_%28419_of_468%29_%2853009098414%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 66,
+      "bandname": "Billy Joel", 
+      "subscribers": 1770000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Billy_Joel_Shankbone_NYC_2009.jpg"
+    },
+    {
+      "id": 67,
+      "bandname": "Phil Collins",
+      "subscribers": 2620000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/GenesisO2260322_%283_of_42%29_%2851963210796%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 68,
+      "bandname": "Peter Gabriel", 
+      "subscribers": 683000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Peter_Gabriel%2C_Denver_2023.jpg"
+    },
+    {
+      "id": 69,
+      "bandname": "Fall Out Boy",
+      "subscribers": 5830000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fall_Out_Boy_-_Hella_Mega_Tour_-_August_10%2C_2021.jpg"
+    },
+    {
+      "id": 70,
+      "bandname": "Green Day",
+      "subscribers": 6550000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Green_Day_-_Hella_Mega_Tour_-_August_10%2C_2021.jpg"
+    },
+    {
+      "id": 71,
+      "bandname": "Marilyn Manson", 
+      "subscribers": 3690000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Marilyn_Manson_Live_in_Roma_25_july_2017-_44_%28cropped%29.jpg"
+    },
+    {
+      "id": 72,
+      "bandname": "James Taylor", 
+      "subscribers": 414000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/James_Taylor_-_Columbia.jpg"
+    },
+    {
+      "id": 73,
+      "bandname": "Frank Sinatra", 
+      "subscribers": 2210000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg"
+    },
+    {
+      "id": 74,
+      "bandname": "Crazy Frog",
+      "subscribers": 14800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/PublicTransport_CrazyFrog.jpg"
+    },
+    {
+      "id": 75,
+      "bandname": "Iration",
+      "subscribers": 92600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Iration_Eugene_Oregon_8.jpg"
+    },
+    {
+      "id": 76,
+      "bandname": "Rebelution",
+      "subscribers": 656000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rebelution.jpg"
+    },
+    {
+      "id": 77,
+      "bandname": "The Black Keys", 
+      "subscribers": 1080000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Black-keys-sxsw-montage.jpg"
+    },
+    {
+      "id": 78,
+      "bandname": "The White Stripes", 
+      "subscribers": 912000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jack_%26_Meg%2C_The_White_Stripes.jpg"
+    },
+    {
+      "id": 79,
+      "bandname": "Stone Temple Pilots",
+      "subscribers": 420000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Stone_temple_pilots_lineup_on_stage.jpg"
+    },
+    {
+      "id": 80,
+      "bandname": "Alice in Chains",
+      "subscribers": 1430000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Alice_in_Chains_Live_Leeds_2018.jpg"
+    },
+    {
+      "id": 81,
+      "bandname": "Gorillaz",
+      "subscribers": 10700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gorillaz_%284742649081%29.jpg"
+    },
+    {
+      "id": 82,
+      "bandname": "Tame Impala",
+      "subscribers": 2490000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tame_Impala_Surly_Brewing_in_Minneapolis_2019_%2848419382936%29.jpg"
+    },
+    {
+      "id": 83,
+      "bandname": "Slayer",
+      "subscribers": 886000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hellfest2017Slayer_02.jpg"
+    },
+    {
+      "id": 84,
+      "bandname": "Anthrax",
+      "subscribers": 290000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Anthrax_Rockavaria_2016_%2812_von_12%29.jpg"
+    },
+    {
+      "id": 85,
+      "bandname": "R.E.M.",
+      "subscribers": 1520000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/R.E.M._on_stage%2C_2008.jpg"
+    },
+    {
+      "id": 86,
+      "bandname": "Counting Crows",
+      "subscribers": 442000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Counting_Crows_2%40_Ancienne_Bruxelles.jpg"
+    },
+    {
+      "id": 87,
+      "bandname": "Nas",
+      "subscribers": 1820000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nas_July_2014_%28cropped%29.jpg"
+    },
+    {
+      "id": 88,
+      "bandname": "Lil Nas X",
+      "subscribers": 19200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lil_Nas_X_back_stage_at_the_MTV_Video_Music_Awards_2019.jpg"
+    },
+    {
+      "id": 89,
+      "bandname": "TLC",
+      "subscribers": 1320000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/93.5_Throwback_Bash_with_TLC_%40_TD_Echo_Beach_%2829631769120%29.jpg"
+    },
+    {
+      "id": 90,
+      "bandname": "Destiny's Child",
+      "subscribers": 2210000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg"
+    },
+    {
+      "id": 91,
+      "bandname": "Slipknot",
+      "subscribers": 8220000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Slipknot_IMG_20190629_235336.jpg"
+    },
+    {
+      "id": 92,
+      "bandname": "Korn",
+      "subscribers": 2850000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Korn_London_1997.jpg"
+    },
+    {
+      "id": 93,
+      "bandname": "The Strokes",
+      "subscribers": 1750000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Strokes_by_Roger_Woolman.jpg"
+    },
+    {
+      "id": 94,
+      "bandname": "Franz Ferdinand",
+      "subscribers": 448000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Franz_Ferdinand_band_collage.jpg"
+    },
+    {
+      "id": 95,
+      "bandname": "Muse",
+      "subscribers": 3750000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/MuseBristol_050619-118_%2848035812973%29.jpg"
+    },
+    {
+      "id": 96,
+      "bandname": "Radiohead",
+      "subscribers": 3640000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Radiohead-Portugal.JPG"
+    },
+    {
+      "id": 97,
+      "bandname": "Eminem",
+      "subscribers": 58600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eminem_2021_Color_Corrected.jpg"
+    },
+    {
+      "id": 98,
+      "bandname": "50 Cent",
+      "subscribers": 15500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/50_cent_in_concert_%28cropped%29.jpg"
+    },
+    {
+      "id": 99,
+      "bandname": "My Chemical Romance",
+      "subscribers": 4600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg"
+    },
+    {
+      "id": 100,
+      "bandname": "Fall Out Boy",
+      "subscribers": 5830000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/FallOutBoy.jpg"
+    },
+    {
+      "id": 101,
+      "bandname": "Disturbed",
+      "subscribers": 4150000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Disturbed_Sweden_Rock_2008.jpg"
+    },
+    {
+      "id": 102,
+      "bandname": "Avenged Sevenfold",
+      "subscribers": 5960000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Avenged_Sevenfold_concert_2009.jpg"
+    },
+    {
+      "id": 103,
+      "bandname": "Hozier",
+      "subscribers": 3800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hozier_2015_02.jpg"
+    },
+    {
+      "id": 104,
+      "bandname": "Vance Joy",
+      "subscribers": 723000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vance_Joy_02_%2818303652112%29.jpg"
+    },
+    {
+      "id": 105,
+      "bandname": "Shawn Mendes",
+      "subscribers": 30100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Shawn_Mendes_takes_a_lie_detector_test.jpg"
+    },
+    {
+      "id": 106,
+      "bandname": "Ed Sheeran",
+      "subscribers": 54000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ed_Sheeran-6896_%28cropped%29.jpg"
+    },
+    {
+      "id": 107,
+      "bandname": "Usher",
+      "subscribers": 7850000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Usher_Cannes_2016_retusche.jpg"
+    },
+    {
+      "id": 108,
+      "bandname": "Travis Scott",
+      "subscribers": 17600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg"
+    },
+    {
+      "id": 109,
+      "bandname": "Of Monsters and Men",
+      "subscribers": 1500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Of_Monsters_and_Men.jpg"
+    },
+    {
+      "id": 110,
+      "bandname": "Florence + the Machine",
+      "subscribers": 2200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Florence_and_the_Machine_-_Singapore_2010.jpg"
+    },
+    {
+      "id": 111,
+      "bandname": "Bastille",
+      "subscribers": 2460000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bastille%2C_Riga_2017_-_44768412225.jpg"
+    },
+    {
+      "id": 112,
+      "bandname": "Imagine Dragons",
+      "subscribers": 31300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Imagine_Dragons%2C_Roundhouse%2C_London_%2835390234536%29.jpg"
+    },
+    {
+      "id": 113,
+      "bandname": "Billie Eilish",
+      "subscribers": 49000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_3%29.jpg"
+    },
+    {
+      "id": 114,
+      "bandname": "Lorde",
+      "subscribers": 5000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RF_3006_Lorde%40Arena_Krists_Luhaers-5_%2835769377251%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 115,
+      "bandname": "Taylor Swift",
+      "subscribers": 56000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/220px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 116,
+      "bandname": "Ed Sheeran",
+      "subscribers": 54000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/220px-Ed_Sheeran-6886_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 117,
+      "bandname": "Adele",
+      "subscribers": 30900000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Adele_for_Vogue_in_2021.png/220px-Adele_for_Vogue_in_2021.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 118,
+      "bandname": "Drake",
+      "subscribers": 29100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Drake_July_2016.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 119,
+      "bandname": "Beyoncé",
+      "subscribers": 26500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg/220px-Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 120,
+      "bandname": "Kendrick Lamar",
+      "subscribers": 12400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pulitzer2018-portraits-kendrick-lamar.jpg/220px-Pulitzer2018-portraits-kendrick-lamar.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 121,
+      "bandname": "Ariana Grande",
+      "subscribers": 53400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ariana_Grande_during_The_Honeymoon_Tour_in_Jakarta_2015.jpg/220px-Ariana_Grande_during_The_Honeymoon_Tour_in_Jakarta_2015.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 122,
+      "bandname": "The Weeknd",
+      "subscribers": 34100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Weeknd_Cannes_2023.png/220px-The_Weeknd_Cannes_2023.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 123,
+      "bandname": "Bruno Mars",
+      "subscribers": 37500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/220px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 124,
+      "bandname": "Justin Bieber",
+      "subscribers": 72400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/220px-Justin_Bieber_in_2015.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 125,
+      "bandname": "Coldplay",
+      "subscribers": 25900000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ColdplayBBC071221_%28cropped%29.jpg/300px-ColdplayBBC071221_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 126,
+      "bandname": "Rihanna",
+      "subscribers": 42600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/220px-Rihanna_Fenty_2018.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 127,
+      "bandname": "Kanye West",
+      "subscribers": 9980000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/220px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 128,
+      "bandname": "Sia",
+      "subscribers": 23100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sia_%28cropped_2%29.jpg/220px-Sia_%28cropped_2%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 129,
+      "bandname": "Imagine Dragons",
+      "subscribers": 31300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Imagine_Dragons_at_LoveLoud_2018_%2842462959830%29.jpg/300px-Imagine_Dragons_at_LoveLoud_2018_%2842462959830%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 130,
+      "bandname": "Lady Gaga",
+      "subscribers": 6,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/220px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 131,
+      "bandname": "Sam Smith",
+      "subscribers": 16500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg/220px-Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 132,
+      "bandname": "Nicki Minaj",
+      "subscribers": 26500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nicki_Minaj_Realize_NBA_Awards_2017.png/220px-Nicki_Minaj_Realize_NBA_Awards_2017.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 133,
+      "bandname": "Maroon 5",
+      "subscribers": 36800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Maroon_5_performing_in_Sydney.jpg/300px-Maroon_5_performing_in_Sydney.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 134,
+      "bandname": "Shawn Mendes",
+      "subscribers": 30100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png/220px-191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 135,
+      "bandname": "Twenty One Pilots",
+      "subscribers": 13200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Twenty_One_Pilots_-_Southside_Festival_2022_-_IMG_6029_-_1_%28cropped%29.jpg/260px-Twenty_One_Pilots_-_Southside_Festival_2022_-_IMG_6029_-_1_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 136,
+      "bandname": "Calvin Harris",
+      "subscribers": 19200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Calvin_Harris.jpg/220px-Calvin_Harris.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 137,
+      "bandname": "Katy Perry",
+      "subscribers": 24600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Katy_Perry_for_Vogue_Magazine%2C_2023.png/220px-Katy_Perry_for_Vogue_Magazine%2C_2023.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 138,
+      "bandname": "Halsey",
+      "subscribers": 12000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Halsey_September_2019.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 139,
+      "bandname": "Eminem",
+      "subscribers": 58600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/220px-Eminem_2021_Color_Corrected.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 140,
+      "bandname": "Lorde",
+      "subscribers": 5000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LordeRoundhse010622_%2817_of_66%29_%2852119260286%29_%28cropped2%29.jpg/220px-LordeRoundhse010622_%2817_of_66%29_%2852119260286%29_%28cropped2%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 141,
+      "bandname": "Mumford & Sons",
+      "subscribers": 1400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MS2015.jpg/300px-MS2015.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 142,
+      "bandname": "The Chainsmokers",
+      "subscribers": 22600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Chainsmokers_Grandoozy_2018_%2845208197432%29.jpg/220px-The_Chainsmokers_Grandoozy_2018_%2845208197432%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 143,
+      "bandname": "Justin Timberlake",
+      "subscribers": 10400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Justin_Timberlake_by_Gage_Skidmore_2.jpg/220px-Justin_Timberlake_by_Gage_Skidmore_2.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 144,
+      "bandname": "The Lumineers",
+      "subscribers": 2340000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Lumineers_performing_at_Wrigley_Field_in_2022.jpg/300px-The_Lumineers_performing_at_Wrigley_Field_in_2022.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 145,
+      "bandname": "Post Malone",
+      "subscribers": 26300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Post_Malone_at_the_2019_American_Music_Awards.png/220px-Post_Malone_at_the_2019_American_Music_Awards.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 146,
+      "bandname": "Childish Gambino",
+      "subscribers": 6490000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Donald_Glover_TIFF_2015.jpg/220px-Donald_Glover_TIFF_2015.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 147,
+      "bandname": "A$AP Rocky",
+      "subscribers": 5180000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/South_by_Southwest_2019_4_-_46628270064_%28cropped%29.jpg/220px-South_by_Southwest_2019_4_-_46628270064_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 148,
+      "bandname": "Travis Scott",
+      "subscribers": 17600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg/220px-Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 149,
+      "bandname": "Cardi B",
+      "subscribers": 19100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cardi_B_2021_02.jpg/220px-Cardi_B_2021_02.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 150,
+      "bandname": "Pharrell Williams",
+      "subscribers": 4150000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pharrell_Williams_at_The_Lion_King_European_Premiere_2019.png/220px-Pharrell_Williams_at_The_Lion_King_European_Premiere_2019.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 151,
+      "bandname": "Miley Cyrus",
+      "subscribers": 18800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg/220px-Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 152,
+      "bandname": "Camila Cabello",
+      "subscribers": 16400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Camila_Cabello_Vogue_2.jpg/220px-Camila_Cabello_Vogue_2.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 153,
+      "bandname": "Imagine Dragons",
+      "subscribers": 31300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Imagine_Dragons_at_LoveLoud_2018_%2842462959830%29.jpg/300px-Imagine_Dragons_at_LoveLoud_2018_%2842462959830%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 154,
+      "bandname": "Panic! At The Disco",
+      "subscribers": 5040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panic%21_At_the_Disco_%2843285362654%29.jpg/267px-Panic%21_At_the_Disco_%2843285362654%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 155,
+      "bandname": "The Black Keys",
+      "subscribers": 1080000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Black-keys-sxsw-montage.jpg/300px-Black-keys-sxsw-montage.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 156,
+      "bandname": "John Legend",
+      "subscribers": 7720000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/John_Legend_2019_by_Glenn_Francis_%28cropped%29.jpg/220px-John_Legend_2019_by_Glenn_Francis_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 157,
+      "bandname": "Meghan Trainor",
+      "subscribers": 14800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Meghan_Trainor_Alt._2020.png/220px-Meghan_Trainor_Alt._2020.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 158,
+      "bandname": "Vance Joy",
+      "subscribers": 723000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vance_Joy_en_el_ACL_Music_Festival_2015_%28Austin%2C_Texas%29.jpg/220px-Vance_Joy_en_el_ACL_Music_Festival_2015_%28Austin%2C_Texas%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 159,
+      "bandname": "Foster The People",
+      "subscribers": 3280000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Foster_The_People_at_Bilbao_BBK_Live_2014.jpg/300px-Foster_The_People_at_Bilbao_BBK_Live_2014.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 160,
+      "bandname": "Zedd",
+      "subscribers": 6180000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zedd_2014_Divergent_Premiere_%28cropped%29.jpg/220px-Zedd_2014_Divergent_Premiere_%28cropped%29.jpg",
+      "genre": "Pop"
+    },
+    {
+      "id": 161,
+      "bandname": "Jason Derulo",
+      "subscribers": 26800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jason_Derulo_live_%40_MTV_EMA_2018_%28cropped%29.png/220px-Jason_Derulo_live_%40_MTV_EMA_2018_%28cropped%29.png",
+      "genre": "Pop"
+    },
+    {
+      "id": 162,
+      "bandname": "Led Zeppelin",
+      "subscribers": 3360000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LedZeppelinmontage.jpg/220px-LedZeppelinmontage.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 163,
+      "bandname": "The Rolling Stones",
+      "subscribers": 3140000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/277px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 164,
+      "bandname": "The Who",
+      "subscribers": 5600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Who_-_1975.jpg/289px-Who_-_1975.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 165,
+      "bandname": "Pink Floyd",
+      "subscribers": 3930000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 166,
+      "bandname": "The Eagles",
+      "subscribers": 1310000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eagles.jpg/300px-Eagles.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 167,
+      "bandname": "Queen",
+      "subscribers": 17400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 168,
+      "bandname": "AC/DC",
+      "subscribers": 10300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ACDC_In_Tacoma_2009.jpg/254px-ACDC_In_Tacoma_2009.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 169,
+      "bandname": "Deep Purple",
+      "subscribers": 1160000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deep_Purple_%281971%29.JPG/300px-Deep_Purple_%281971%29.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 170,
+      "bandname": "Fleetwood Mac",
+      "subscribers": 1530000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fleetwood_Mac_Billboard_1977.jpg/220px-Fleetwood_Mac_Billboard_1977.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 171,
+      "bandname": "The Doors",
+      "subscribers": 1070000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Doors_1968.JPG/250px-The_Doors_1968.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 172,
+      "bandname": "Lynyrd Skynyrd",
+      "subscribers": 1210000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hellfest2019LynyrdSkynyrd_07.jpg/280px-Hellfest2019LynyrdSkynyrd_07.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 173,
+      "bandname": "The Allman Brothers Band",
+      "subscribers": 130000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Allman_Brothers_Band_1969.jpg/260px-Allman_Brothers_Band_1969.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 174,
+      "bandname": "Journey",
+      "subscribers": 4780,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Journey_publicity_photo_2013.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 175,
+      "bandname": "Rush",
+      "subscribers": 635000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rush_band_1970s.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 176,
+      "bandname": "ZZ Top",
+      "subscribers": 524000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ZZTop_NewBraunfels.jpg/267px-ZZTop_NewBraunfels.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 177,
+      "bandname": "The Clash",
+      "subscribers": 702000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Clash_21051980_12_800.jpg/300px-Clash_21051980_12_800.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 178,
+      "bandname": "U2",
+      "subscribers": 2870000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg/300px-U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 179,
+      "bandname": "Genesis",
+      "subscribers": 581000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/GenesisO2260322_%2832_of_42%29_%2851963494249%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 180,
+      "bandname": "The Police",
+      "subscribers": 1750000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ThePolice_2007.jpg/293px-ThePolice_2007.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 181,
+      "bandname": "Aerosmith",
+      "subscribers": 3800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aerosmith_member.png/220px-Aerosmith_member.png",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 182,
+      "bandname": "Van Halen",
+      "subscribers": 649000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vanhalen_1981.jpg/300px-Vanhalen_1981.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 183,
+      "bandname": "The Rolling Stones",
+      "subscribers": 3140000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/277px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 184,
+      "bandname": "Tom Petty and the Heartbreakers",
+      "subscribers": 766000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tom_Petty_and_the_Heartbreakers_1977.jpg/289px-Tom_Petty_and_the_Heartbreakers_1977.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 185,
+      "bandname": "Def Leppard",
+      "subscribers": 1230000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Def_Leppard_2018.jpg/270px-Def_Leppard_2018.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 186,
+      "bandname": "Boston",
+      "subscribers": 36200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/268px-Boston_-_panoramio_%2823%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 187,
+      "bandname": "Foreigner",
+      "subscribers": 491000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2016_Lieder_am_See_-_Foreigner_-_by_2eight_-_DSC4789.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 188,
+      "bandname": "Heart",
+      "subscribers": 18500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heart_anterior_exterior_view.png/250px-Heart_anterior_exterior_view.png",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 189,
+      "bandname": "Dire Straits",
+      "subscribers": 2010000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dire_straits_22101985_23_800.jpg/250px-Dire_straits_22101985_23_800.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 190,
+      "bandname": "The Moody Blues",
+      "subscribers": 151000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Moody_Blues_923-9509.jpg/300px-The_Moody_Blues_923-9509.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 191,
+      "bandname": "The Grateful Dead",
+      "subscribers": 442000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grateful_Dead_%281970%29.png/300px-Grateful_Dead_%281970%29.png",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 192,
+      "bandname": "Styx",
+      "subscribers": 328000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Styx_2017.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 193,
+      "bandname": "Kansas",
+      "subscribers": 718000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/125px-Flag_of_Kansas.svg.png",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 194,
+      "bandname": "Blue Öyster Cult",
+      "subscribers": 209000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg/300px-Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 195,
+      "bandname": "The Steve Miller Band",
+      "subscribers": 177000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Steve_Miller_Band_Ravinia.jpg/250px-Steve_Miller_Band_Ravinia.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 196,
+      "bandname": "The Cars",
+      "subscribers": 1950000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Cars_1980_%28Elektra_Press_Kit_Photo%29.jpg/288px-The_Cars_1980_%28Elektra_Press_Kit_Photo%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 197,
+      "bandname": "REO Speedwagon",
+      "subscribers": 449000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/REO_Speedwagon_at_Red_Rocks_July_2010_%28cropped%29.jpg/260px-REO_Speedwagon_at_Red_Rocks_July_2010_%28cropped%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 198,
+      "bandname": "Chicago",
+      "subscribers": 1330000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/288px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 199,
+      "bandname": "Bad Company",
+      "subscribers": 187000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bad_Company_-_1976.jpg/300px-Bad_Company_-_1976.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 200,
+      "bandname": "The Scorpions",
+      "subscribers": 4540000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Scorpions_in_Melbourne%2C_Australia_17.10.2016.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 201,
+      "bandname": "The Talking Heads",
+      "subscribers": 191000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg/220px-Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 202,
+      "bandname": "Cheap Trick",
+      "subscribers": 266000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cheaptrick_lineup_1981.jpg/292px-Cheaptrick_lineup_1981.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 203,
+      "bandname": "The Doobie Brothers",
+      "subscribers": 223000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Steely_Dan_With_The_Doobie_Brothers_-_The_O2_-_Sunday_29th_October_2017_SteelyDanO2291017-2_%2838047867141%29.jpg/300px-Steely_Dan_With_The_Doobie_Brothers_-_The_O2_-_Sunday_29th_October_2017_SteelyDanO2291017-2_%2838047867141%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 204,
+      "bandname": "Foreigner",
+      "subscribers": 491000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2016_Lieder_am_See_-_Foreigner_-_by_2eight_-_DSC4789.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 205,
+      "bandname": "Thin Lizzy",
+      "subscribers": 94600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Thin_Lizzy_-1983.jpg/300px-Thin_Lizzy_-1983.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 206,
+      "bandname": "The Kinks",
+      "subscribers": 247000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Helmfrid-sofa4_Touched.JPG/220px-Helmfrid-sofa4_Touched.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 207,
+      "bandname": "Cream",
+      "subscribers": 251000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 208,
+      "bandname": "The Jimi Hendrix Experience",
+      "subscribers": 1180000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jimi_Hendrix_1967.png/220px-Jimi_Hendrix_1967.png",
+      "genre": "ClassicRock"
+    }
+  ]
