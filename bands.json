@@ -1340,5 +1340,145 @@
       "subscribers": 1180000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jimi_Hendrix_1967.png/220px-Jimi_Hendrix_1967.png",
       "genre": "ClassicRock"
+    },
+    {
+      "id": 209,
+      "bandname": "Arctic Monkeys",
+      "subscribers": 8040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg/300px-Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 210,
+      "bandname": "The Monkees",
+      "subscribers": 195000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Monkees_1966.JPG/220px-The_Monkees_1966.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 211,
+      "bandname": "The Cranberries",
+      "subscribers": 3380000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cranberries_Live_In_BCN_10_4_2012.JPG/300px-Cranberries_Live_In_BCN_10_4_2012.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 212,
+      "bandname": "Hootie & the Blowfish",
+      "subscribers": 82100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hootie_and_the_Blowfish_1998.jpg/300px-Hootie_and_the_Blowfish_1998.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 213,
+      "bandname": "Dashboard Confessional",
+      "subscribers": 105000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DashboardConfessional_2006_cropped.JPG/300px-DashboardConfessional_2006_cropped.JPG",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 214,
+      "bandname": "Something Corporate",
+      "subscribers": 5070,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Socojg.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 215,
+      "bandname": "Blink-182",
+      "subscribers": 3120000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Blink-182_-_pressbild_PC_Rory_Kramer.jpg/300px-Blink-182_-_pressbild_PC_Rory_Kramer.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 216,
+      "bandname": "Sum 41",
+      "subscribers": 1160000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sum_41_-_2023155152603_2023-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0257_-_AK8I8513.jpg/300px-Sum_41_-_2023155152603_2023-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0257_-_AK8I8513.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 217,
+      "bandname": "Panic! at the Disc",
+      "subscribers": 5040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Panic%21_At_the_Disco_%2843285362654%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 218,
+      "bandname": "Jimmy Eat World",
+      "subscribers": 266000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_RiP_-_Jimmy_Eat_World_-_by_2eight_-_8SC8102.jpg/300px-2018_RiP_-_Jimmy_Eat_World_-_by_2eight_-_8SC8102.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 219,
+      "bandname": "Kreator",
+      "subscribers": 119000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kreator_-_Reload_Festival_2018_07_%28cropped%29.jpg/300px-Kreator_-_Reload_Festival_2018_07_%28cropped%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 220,
+      "bandname": "Testament",
+      "subscribers": 130000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/2017_Testament_-_by_2eight_-_8SC1105.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 221,
+      "bandname": "Iron Maiden",
+      "subscribers": 2740000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/IronMaidencollage2.jpg/220px-IronMaidencollage2.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 222,
+      "bandname": "Iron & Wine",
+      "subscribers": 78600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sam_Beam_-_Iron_and_Wine_%2852413563571%29_%28cropped%29.jpg/220px-Sam_Beam_-_Iron_and_Wine_%2852413563571%29_%28cropped%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 223,
+      "bandname": "My Chemical Romance",
+      "subscribers": 4610000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MCR820_%28cropped%29.jpg/300px-MCR820_%28cropped%29.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 224,
+      "bandname": "Taking Back Sunday",
+      "subscribers": 176000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Taking_Back_Sunday_-_Rock_am_Ring_2018-4736.jpg/300px-Taking_Back_Sunday_-_Rock_am_Ring_2018-4736.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 225,
+      "bandname": "Overkill",
+      "subscribers": 28400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Overkill_Rockharz_2019_24.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 226,
+      "bandname": "Venom",
+      "subscribers": 885000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Venom_at_Party.San_Metal_Open_Air_2013.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 227,
+      "bandname": "Fleetwood Mac",
+      "subscribers": 1540000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fleetwood_Mac_Billboard_1977.jpg/220px-Fleetwood_Mac_Billboard_1977.jpg",
+      "genre": "ClassicRock"
+    },
+    {
+      "id": 228,
+      "bandname": "Macklemore",
+      "subscribers": 9520000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/P2N2022Macklemore_2.jpg/220px-P2N2022Macklemore_2.jpg",
+      "genre": "ClassicRock"
     }
   ]
