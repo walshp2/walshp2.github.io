@@ -1480,5 +1480,215 @@
       "subscribers": 9520000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/P2N2022Macklemore_2.jpg/220px-P2N2022Macklemore_2.jpg",
       "genre": "ClassicRock"
+    },
+    {
+      "id": 229,
+      "bandname": "Reel big fish",
+      "subscribers": 87200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reel_Big_Fish_live_in_Santa_Cruz.jpg/267px-Reel_Big_Fish_live_in_Santa_Cruz.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 230,
+      "bandname": "Goldfinger",
+      "subscribers": 99300,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 231,
+      "bandname": "Led Zeppelin",
+      "subscribers": 3380000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LedZeppelinmontage.jpg/220px-LedZeppelinmontage.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 232,
+      "bandname": "Jimi Hendrix",
+      "subscribers": 1180000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jimi_Hendrix_1967.png/220px-Jimi_Hendrix_1967.png",
+      "genre": "None"
+    },
+    {
+      "id": 233,
+      "bandname": "6ix9ine",
+      "subscribers": 38,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6ix9ine_June_2018_side_%28cropped_x2%29.jpg/220px-6ix9ine_June_2018_side_%28cropped_x2%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 234,
+      "bandname": "Lil Pump",
+      "subscribers": 17700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lil_Pump_Fillmore_Auditorium_%28cropped%29.jpg/220px-Lil_Pump_Fillmore_Auditorium_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 235,
+      "bandname": "Meat Puppets",
+      "subscribers": 10500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Meat_Puppets_2014.jpg/267px-Meat_Puppets_2014.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 236,
+      "bandname": "Violent Femmes",
+      "subscribers": 54600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Violent_Femmes_8221.jpg/280px-Violent_Femmes_8221.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 237,
+      "bandname": "Audioslave",
+      "subscribers": 1020000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Audioslave_2005.jpg/300px-Audioslave_2005.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 238,
+      "bandname": "Rage Againt the machine",
+      "subscribers": 1130000,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 239,
+      "bandname": "Avicii",
+      "subscribers": 20800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Avicii_2014_003.jpg/220px-Avicii_2014_003.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 240,
+      "bandname": "Diplo",
+      "subscribers": 2560000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diplo_2014_Press_Photo_%28cropped%29.jpg/220px-Diplo_2014_Press_Photo_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 241,
+      "bandname": "Dinosaur Jr.",
+      "subscribers": 67800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dinosaur_Jr._at_WTAI_in_Stockholm.jpg/267px-Dinosaur_Jr._at_WTAI_in_Stockholm.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 242,
+      "bandname": "Jane's Addiction",
+      "subscribers": 77700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Janes_Addiction_%40_Steel_Blue_Oval_%281_3_2010%29_%284416154323%29.jpg/260px-Janes_Addiction_%40_Steel_Blue_Oval_%281_3_2010%29_%284416154323%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 243,
+      "bandname": "Tom Petty and the Heartbreakers",
+      "subscribers": 770000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tom_Petty_and_the_Heartbreakers_1977.jpg/289px-Tom_Petty_and_the_Heartbreakers_1977.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 244,
+      "bandname": "The Doors",
+      "subscribers": 1080000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Doors_1968.JPG/250px-The_Doors_1968.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 245,
+      "bandname": "Calvin Harris",
+      "subscribers": 19200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Calvin_Harris.jpg/220px-Calvin_Harris.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 246,
+      "bandname": "David Guetta",
+      "subscribers": 26200000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/David_Guetta_live_%40_MTV_EMA_2018.png/220px-David_Guetta_live_%40_MTV_EMA_2018.png",
+      "genre": "None"
+    },
+    {
+      "id": 247,
+      "bandname": "red hot chili peppers",
+      "subscribers": 7680000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/RHCP_Live_in_London_26_June_2022.jpg/300px-RHCP_Live_in_London_26_June_2022.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 248,
+      "bandname": "Foo Fighters",
+      "subscribers": 3800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Glasto2023_%2865_of_468%29_%28cropped%29.jpg/300px-Glasto2023_%2865_of_468%29_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 249,
+      "bandname": "DJ Snake",
+      "subscribers": 24300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DJ_Snake_Paris_02.2020.jpg/220px-DJ_Snake_Paris_02.2020.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 250,
+      "bandname": "Marshmello",
+      "subscribers": 56800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg/220px-2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 251,
+      "bandname": "Janis Joplin",
+      "subscribers": 365000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Janis_Joplin_1970.JPG/220px-Janis_Joplin_1970.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 252,
+      "bandname": "Bob Dylan",
+      "subscribers": 1310000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg/220px-Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 253,
+      "bandname": "Nirvana",
+      "subscribers": 9190000,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 254,
+      "bandname": "Hole",
+      "subscribers": 1170000,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 255,
+      "bandname": "Stevie Ray Vaughan",
+      "subscribers": 358000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stevie_Ray_Vaughan_Live_1983.jpg/220px-Stevie_Ray_Vaughan_Live_1983.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 256,
+      "bandname": "The Who",
+      "subscribers": 224000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Who_-_1975.jpg/289px-Who_-_1975.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 257,
+      "bandname": "Spoon",
+      "subscribers": 66700,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 258,
+      "bandname": "The Shins",
+      "subscribers": 120000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg/300px-The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg",
+      "genre": "None"
     }
   ]
