@@ -1690,5 +1690,257 @@
       "subscribers": 120000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg/300px-The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg",
       "genre": "None"
+    },
+    {
+      "id": 259,
+      "bandname": "Shakira",
+      "subscribers": 45500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/220px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 260,
+      "bandname": "Alicia Keys",
+      "subscribers": 6540000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AliciaKeys2013.jpg/220px-AliciaKeys2013.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 261,
+      "bandname": "Tonic",
+      "subscribers": 70100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Emerson_Hart_and_Jeff_Russo_of_Tonic.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 262,
+      "bandname": "Harvey Danger",
+      "subscribers": 6400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Harvey_Danger2009.jpg/267px-Harvey_Danger2009.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 263,
+      "bandname": "Olivia Rodrigo",
+      "subscribers": 13000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Olivia_Rodrigo_with_Dr_Fauci_1.png/220px-Olivia_Rodrigo_with_Dr_Fauci_1.png",
+      "genre": "None"
+    },
+    {
+      "id": 264,
+      "bandname": "SZA",
+      "subscribers": 4600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ctrl_the_tour%282%29.jpg/220px-Ctrl_the_tour%282%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 265,
+      "bandname": "TLC",
+      "subscribers": 7660000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/TLCgroup.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 266,
+      "bandname": "Boyz II Men",
+      "subscribers": 683000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Boyz_II_Men_-_Walmart_%281%29.jpg/300px-Boyz_II_Men_-_Walmart_%281%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 267,
+      "bandname": "Morgan Wallen",
+      "subscribers": 2660000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Morgan_Wallen_performing_at_Freedom_Fest_2019.jpg/220px-Morgan_Wallen_performing_at_Freedom_Fest_2019.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 268,
+      "bandname": "Luke Combs",
+      "subscribers": 3310000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Luke_Combs_interview.jpg/220px-Luke_Combs_interview.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 269,
+      "bandname": "boygenius",
+      "subscribers": 127000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BoygeniusKingstonEarly240823_%2820_of_45%29.jpg/300px-BoygeniusKingstonEarly240823_%2820_of_45%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 270,
+      "bandname": "Gorillaz",
+      "subscribers": 10700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Gorillaz_family.jpg/240px-Gorillaz_family.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 271,
+      "bandname": "Celine Dion",
+      "subscribers": 8110000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/220px-C%C3%A9line_Dion_2012.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 272,
+      "bandname": "Christina Aguilera",
+      "subscribers": 5730000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christina_Aguilera_at_the_VinFuture_Prize_2022%2C_in_Vietnam.png/220px-Christina_Aguilera_at_the_VinFuture_Prize_2022%2C_in_Vietnam.png",
+      "genre": "None"
+    },
+    {
+      "id": 273,
+      "bandname": "Backstreet Boys",
+      "subscribers": 7070000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Backstreet_Boys_2019_by_Glenn_Francis.jpg/300px-Backstreet_Boys_2019_by_Glenn_Francis.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 274,
+      "bandname": "NSYNC",
+      "subscribers": 1620000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/NSYNC.jpg/200px-NSYNC.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 275,
+      "bandname": "Ol Dirty Bastard",
+      "subscribers": 67900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Ol%27_Dirty_Bastard.jpg/220px-Ol%27_Dirty_Bastard.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 276,
+      "bandname": "Method Man",
+      "subscribers": 570000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Method_Man_at_Shattuck_Down_Low.jpg/220px-Method_Man_at_Shattuck_Down_Low.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 277,
+      "bandname": "Spice Girls",
+      "subscribers": 1340000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spice_Girls_in_Toronto%2C_Ontario.jpg/225px-Spice_Girls_in_Toronto%2C_Ontario.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 278,
+      "bandname": "Backstreet Boys",
+      "subscribers": 7070000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Backstreet_Boys_2019_by_Glenn_Francis.jpg/300px-Backstreet_Boys_2019_by_Glenn_Francis.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 279,
+      "bandname": "Ice Spice",
+      "subscribers": 1990000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/220px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png",
+      "genre": "None"
+    },
+    {
+      "id": 280,
+      "bandname": "Doja Cat",
+      "subscribers": 12600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Doja_Cat_Planet_Her_Day_Party_1_%28cropped%29.jpg/220px-Doja_Cat_Planet_Her_Day_Party_1_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 281,
+      "bandname": "Jelly Roll",
+      "subscribers": 3410000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jelly_Roll_live_in_Minneapolis%2C_May_2nd_2014.png",
+      "genre": "None"
+    },
+    {
+      "id": 282,
+      "bandname": "Sugar Ray",
+      "subscribers": 115000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sugar_Ray.jpg/300px-Sugar_Ray.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 283,
+      "bandname": "U2",
+      "subscribers": 2880000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg/300px-U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 284,
+      "bandname": "REM",
+      "subscribers": 1530000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/R.E.M._at_Stadio_Euganeo%2C_Padova%2C_Italy%2C_2003-07-22_04.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 285,
+      "bandname": "Nicki Minaj",
+      "subscribers": 26600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nicki_Minaj_MTV_VMAs_4.jpg/220px-Nicki_Minaj_MTV_VMAs_4.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 286,
+      "bandname": "Megan Thee Stallion",
+      "subscribers": 19100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Megan_Thee_Stallion_in_2024.jpg/220px-Megan_Thee_Stallion_in_2024.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 287,
+      "bandname": "Whitney Houston",
+      "subscribers": 8630000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/220px-Whitney_Houston_%28cropped3%29.JPEG",
+      "genre": "None"
+    },
+    {
+      "id": 288,
+      "bandname": "George Michael",
+      "subscribers": 3270000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/220px-George_Michael.jpeg",
+      "genre": "None"
+    },
+    {
+      "id": 289,
+      "bandname": "OneRepublic",
+      "subscribers": 10600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OneRepublic_performing_in_Toronto%2C_Canada%2C_Aug_2017.jpg/300px-OneRepublic_performing_in_Toronto%2C_Canada%2C_Aug_2017.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 290,
+      "bandname": "One Direction",
+      "subscribers": 38400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/300px-One_Direction_Sydney_4.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 291,
+      "bandname": "Three 6 Mafia",
+      "subscribers": 712000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Three_6_Mafia_full_group.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 292,
+      "bandname": "Three Days Grace",
+      "subscribers": 3460000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Three_Days_Grace_-_2023155162203_2023-06-04_Rock_am_Ring_-_Sven_-_5DS_R_-_0057_-_5DSR4006.jpg/300px-Three_Days_Grace_-_2023155162203_2023-06-04_Rock_am_Ring_-_Sven_-_5DS_R_-_0057_-_5DSR4006.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 293,
+      "bandname": "Five for Fighting",
+      "subscribers": 232000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/John_Ondrasik_at_Edwards_Air_Force_Ball.jpg/280px-John_Ondrasik_at_Edwards_Air_Force_Ball.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 294,
+      "bandname": "10000 Maniacs",
+      "subscribers": 13800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/10%2C000_Maniacs.jpg",
+      "genre": "None"
     }
   ]
