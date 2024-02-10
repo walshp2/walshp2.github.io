@@ -1942,5 +1942,299 @@
       "subscribers": 13800,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/10%2C000_Maniacs.jpg",
       "genre": "None"
+    },
+    {
+      "id": 295,
+      "bandname": "The Dead Weather",
+      "subscribers": 98100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dead_Weather.jpg/280px-Dead_Weather.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 296,
+      "bandname": "Them Crooked Vultures",
+      "subscribers": 71300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TaylorHawkTributeWemb030922_%2883_of_281%29_%2852334661408%29.jpg/300px-TaylorHawkTributeWemb030922_%2883_of_281%29_%2852334661408%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 297,
+      "bandname": "Temple of the Dog",
+      "subscribers": 179000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Temple_of_the_Dog_Band_Shot.jpg/220px-Temple_of_the_Dog_Band_Shot.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 298,
+      "bandname": "The Traveling Wilburys",
+      "subscribers": 325000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Traveling_Wilburys.jpg/220px-Traveling_Wilburys.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 299,
+      "bandname": "The Raconteurs",
+      "subscribers": 140000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raconteurs_T_in_the_Park_2008.jpg/300px-Raconteurs_T_in_the_Park_2008.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 300,
+      "bandname": "Asia",
+      "subscribers": 57500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/AsiaPromotionalOriginal.png",
+      "genre": "None"
+    },
+    {
+      "id": 301,
+      "bandname": "30 Seconds to Mars",
+      "subscribers": 3160000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/30_Seconds_to_Mars%2C_Anfiteatro_Camerini_%282%29.jpg/260px-30_Seconds_to_Mars%2C_Anfiteatro_Camerini_%282%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 302,
+      "bandname": "Dogstar",
+      "subscribers": 39300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Keanu_Reeves_and_Dogstar_interview_July_2023.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 303,
+      "bandname": "Thirty Odd Foot of Grunts",
+      "subscribers": 277,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Russell_Crowe_%2833994020424%29.jpg/220px-Russell_Crowe_%2833994020424%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 304,
+      "bandname": "Dead Man's Bones",
+      "subscribers": 821,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ryan_Gosling_-_Dead_Man%27s_Bones_3.jpg/220px-Ryan_Gosling_-_Dead_Man%27s_Bones_3.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 305,
+      "bandname": "She & Him",
+      "subscribers": 77400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zooey_Deschanel_of_She_%26_Him_%40_Mercy_Lounge_04_%28cropped%29.jpg/220px-Zooey_Deschanel_of_She_%26_Him_%40_Mercy_Lounge_04_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 306,
+      "bandname": "The Bacon Brothers",
+      "subscribers": 11700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BaconBrothers.jpg/250px-BaconBrothers.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 307,
+      "bandname": "Garfunkel and Oates",
+      "subscribers": 495000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Garfunkel_%26_Oates_%285133621440%29.jpg/220px-Garfunkel_%26_Oates_%285133621440%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 308,
+      "bandname": "Tenacious D",
+      "subscribers": 1370000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg/260px-Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 309,
+      "bandname": "Flight of the Conchords",
+      "subscribers": 108000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flight_Of_The_Conchords_-_Soho_Theatre_-_Sunday_25th_February_2018_ConchordsSoho250218-7_%2838761512730%29_%28cropped%29.jpg/220px-Flight_Of_The_Conchords_-_Soho_Theatre_-_Sunday_25th_February_2018_ConchordsSoho250218-7_%2838761512730%29_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 310,
+      "bandname": "Ylvis",
+      "subscribers": 87100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/I_kveld_med_Ylvis.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 311,
+      "bandname": "Weird Al Yankovic",
+      "subscribers": 2610000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AlYankovicByKristineSlipson.jpg/220px-AlYankovicByKristineSlipson.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 312,
+      "bandname": "The Lonely Island",
+      "subscribers": 7280000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lonely_Island.png/300px-Lonely_Island.png",
+      "genre": "None"
+    },
+    {
+      "id": 313,
+      "bandname": "Paramore",
+      "subscribers": 3280000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/ParamoreO2200423_%2878_of_88%29_%2852834069101%29.jpg/300px-ParamoreO2200423_%2878_of_88%29_%2852834069101%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 314,
+      "bandname": "Evanescence",
+      "subscribers": 7040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Evanescence_-_Rock_am_Ring_2023-7536.jpg/300px-Evanescence_-_Rock_am_Ring_2023-7536.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 315,
+      "bandname": "Garbage",
+      "subscribers": 345000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sound007RAH041022_%2836_of_69%29_%2852406233929%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 316,
+      "bandname": "The Pretenders",
+      "subscribers": 118000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pretenders_Dubai_200702.jpg/280px-Pretenders_Dubai_200702.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 317,
+      "bandname": "The Cardigans",
+      "subscribers": 332000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheCardigans.jpg/300px-TheCardigans.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 318,
+      "bandname": "The Yeah Yeah Yeahs",
+      "subscribers": 425000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yeah_Yeah_Yeahs.jpg/290px-Yeah_Yeah_Yeahs.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 319,
+      "bandname": "Sponge",
+      "subscribers": 6260,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aplysina_archeri_%28Stove-pipe_Sponge-pink_variation%29.jpg/220px-Aplysina_archeri_%28Stove-pipe_Sponge-pink_variation%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 321,
+      "bandname": "Nada Surf",
+      "subscribers": 32300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Matthew_Caws_from_Nada_Surf.jpg/220px-Matthew_Caws_from_Nada_Surf.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 320,
+      "bandname": "Spacehog",
+      "subscribers": 6240,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 322,
+      "bandname": "Marcy Playground",
+      "subscribers": 21400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/MarcyPlaygroundBandPic.jpg/300px-MarcyPlaygroundBandPic.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 323,
+      "bandname": "Toad the Wet Sprocket",
+      "subscribers": 54400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Toad_the_Wet_Sprocket_2014.jpg/220px-Toad_the_Wet_Sprocket_2014.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 324,
+      "bandname": "Better Than Ezra",
+      "subscribers": 11100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BTEHoBNOLA.jpg/260px-BTEHoBNOLA.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 325,
+      "bandname": "Talking Heads",
+      "subscribers": 197000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg/220px-Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 326,
+      "bandname": "Tears for Fears",
+      "subscribers": 2050000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TearsFearsRAH271017-28_%2837982003406%29.jpg/300px-TearsFearsRAH271017-28_%2837982003406%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 327,
+      "bandname": "The B-52s",
+      "subscribers": 86000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BsLiveCollage.jpg/278px-BsLiveCollage.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 328,
+      "bandname": "Bananarama",
+      "subscribers": 39200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bananarama_crop.jpg/254px-Bananarama_crop.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 329,
+      "bandname": "Soft Cell",
+      "subscribers": 141000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Soft_Cell_%281983_Sire_publicity_photo%29_01.jpg/220px-Soft_Cell_%281983_Sire_publicity_photo%29_01.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 330,
+      "bandname": "A-ha",
+      "subscribers": 1870000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/300px-A-haVistalegre19.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 331,
+      "bandname": "Debbie Gibson",
+      "subscribers": 96800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Debbie_Gibson_adjusted.jpg/220px-Debbie_Gibson_adjusted.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 332,
+      "bandname": "Tiffany",
+      "subscribers": 256000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tiffany_on_stage_2003.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 333,
+      "bandname": "Bad Bunny",
+      "subscribers": 47500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/220px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 334,
+      "bandname": "The Weeknd",
+      "subscribers": 34300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Weeknd_Cannes_2023.png/220px-The_Weeknd_Cannes_2023.png",
+      "genre": "None"
+    },
+    {
+      "id": 335,
+      "bandname": "Grizzly Bear",
+      "subscribers": 142000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/220px-GrizzlyBearJeanBeaufort.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 336,
+      "bandname": "Fleet Foxes",
+      "subscribers": 103000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fleet_Foxes_Coachella_2.jpg/260px-Fleet_Foxes_Coachella_2.jpg",
+      "genre": "None"
     }
   ]
