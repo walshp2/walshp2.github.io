@@ -2236,5 +2236,47 @@
       "subscribers": 103000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fleet_Foxes_Coachella_2.jpg/260px-Fleet_Foxes_Coachella_2.jpg",
       "genre": "None"
+    },
+    {
+      "id": 337,
+      "bandname": "Credenece Clearwater Revival",
+      "subscribers": 1870000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Creedence_Clearwater_Revival_1968.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 338,
+      "bandname": "The Doors",
+      "subscribers": 1080000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Doors_1968.JPG/250px-The_Doors_1968.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 339,
+      "bandname": "Foghat",
+      "subscribers": 62000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Foghat_1975.JPG/220px-Foghat_1975.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 340,
+      "bandname": "War",
+      "subscribers": 164000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/WarOriginalLineup_01.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 341,
+      "bandname": "Manfred Mann's Earth Band",
+      "subscribers": 23800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Manfred_Mann%27s_Earth_Band_-_2018173191327_2018-06-22_Rock_the_Ring_-_1D_X_MK_II_-_1063_-_B70I9196.jpg/300px-Manfred_Mann%27s_Earth_Band_-_2018173191327_2018-06-22_Rock_the_Ring_-_1D_X_MK_II_-_1063_-_B70I9196.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 342,
+      "bandname": "The Guess Who",
+      "subscribers": 79800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Guess_Who.png/263px-The_Guess_Who.png",
+      "genre": "None"
     }
   ]
