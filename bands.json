@@ -2278,5 +2278,383 @@
       "subscribers": 79800,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Guess_Who.png/263px-The_Guess_Who.png",
       "genre": "None"
+    },
+    {
+      "id": 343,
+      "bandname": "Duran Duran",
+      "subscribers": 978000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Duran_Duran_1983.jpg/300px-Duran_Duran_1983.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 344,
+      "bandname": "Mr. Mister",
+      "subscribers": 231000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Wearfaceorg.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 345,
+      "bandname": "The Ting Tings",
+      "subscribers": 94700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ting_Tings_Toronto.jpg/250px-Ting_Tings_Toronto.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 346,
+      "bandname": "The Go Gos",
+      "subscribers": 96800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Go-Go%27s_%281981_I.R.S._publicty_photo_03%29.jpg/281px-The_Go-Go%27s_%281981_I.R.S._publicty_photo_03%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 347,
+      "bandname": "Yeah Yeah Yeahs",
+      "subscribers": 425000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yeah_Yeah_Yeahs.jpg/290px-Yeah_Yeah_Yeahs.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 348,
+      "bandname": "Wet Wet Wet",
+      "subscribers": 124000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wetwetwet-montreux.jpg/256px-Wetwetwet-montreux.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 349,
+      "bandname": "Oasis",
+      "subscribers": 4230000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Oasis_Liam_and_Noel.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 350,
+      "bandname": "Blur",
+      "subscribers": 469000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/BlurWembley090723_%28166_of_172%29_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 351,
+      "bandname": "2Pac",
+      "subscribers": 7500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tupac_Amaru_Shakur2.jpg/220px-Tupac_Amaru_Shakur2.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 352,
+      "bandname": "Notorious BIG",
+      "subscribers": 4120000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/The_Notorious_B.I.G.jpg/252px-The_Notorious_B.I.G.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 353,
+      "bandname": "Madonna",
+      "subscribers": 6850000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/220px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 354,
+      "bandname": "Lady Gaga",
+      "subscribers": 8920000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/220px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 355,
+      "bandname": "100 gecs",
+      "subscribers": 323000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/100_gecs.jpg/300px-100_gecs.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 356,
+      "bandname": "10,000 Maniacs",
+      "subscribers": 13900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/10%2C000_Maniacs.jpg/220px-10%2C000_Maniacs.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 357,
+      "bandname": "The Head and the Heart",
+      "subscribers": 99100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Head_and_The_Heart.jpg/300px-The_Head_and_The_Heart.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 358,
+      "bandname": "The Shins",
+      "subscribers": 120000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg/300px-The_Shins_at_ACL_Live_3-18-12_%287013934595%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 359,
+      "bandname": "Earl Sweatshirt",
+      "subscribers": 475000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Earl_Sweatshirt_Day_N_Night_Festival.png/220px-Earl_Sweatshirt_Day_N_Night_Festival.png",
+      "genre": "None"
+    },
+    {
+      "id": 360,
+      "bandname": "The Cardigans",
+      "subscribers": 332000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheCardigans.jpg/300px-TheCardigans.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 361,
+      "bandname": "The Germs",
+      "subscribers": 49700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Germs_from_the_1979_Flipside_Calendar_%28cropped%29.jpg/260px-The_Germs_from_the_1979_Flipside_Calendar_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 362,
+      "bandname": "The Cure",
+      "subscribers": 1330000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Cure_Live_in_Singapore_2-_1st_August_2007.jpg/300px-The_Cure_Live_in_Singapore_2-_1st_August_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 363,
+      "bandname": "Whitest Boy Alive",
+      "subscribers": 11300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TheWhitestBoyAlive2009.jpg/250px-TheWhitestBoyAlive2009.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 364,
+      "bandname": "Blackstar",
+      "subscribers": 77300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Black_Star_-_Ilosaarirock_2012.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 365,
+      "bandname": "The Go! Team",
+      "subscribers": 16300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Go_Team_Accelerator_2004.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 366,
+      "bandname": "Godspeed You! Black Emperor",
+      "subscribers": 23200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Godspeed_You%21_Black_Emperor_%40_Roadburn_Festival_2018-04-21_003.jpg/250px-Godspeed_You%21_Black_Emperor_%40_Roadburn_Festival_2018-04-21_003.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 367,
+      "bandname": "The Darkness",
+      "subscribers": 112000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HollywoodVampsSSe200618-69_%2842513700740%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 368,
+      "bandname": "The Lumineers",
+      "subscribers": 2350000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Lumineers_performing_at_Wrigley_Field_in_2022.jpg/300px-The_Lumineers_performing_at_Wrigley_Field_in_2022.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 369,
+      "bandname": "Modest Mouse",
+      "subscribers": 285000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Modest_Mouse_Pittsburgh_2021.jpg/300px-Modest_Mouse_Pittsburgh_2021.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 370,
+      "bandname": "deadmau5",
+      "subscribers": 1820000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Deadmau5_d_%28cropped%29.jpg/220px-Deadmau5_d_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 371,
+      "bandname": "Limp Bizkit",
+      "subscribers": 2040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Limp_Bizkit_%28cropped%29.jpg/260px-Limp_Bizkit_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 372,
+      "bandname": "Stiff Little Fingers",
+      "subscribers": 13900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiff_Little_Fingers.JPG/300px-Stiff_Little_Fingers.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 373,
+      "bandname": "Crystal Castles",
+      "subscribers": 764000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crystal_Castles_live_in_Oslo%2C_2010_L1020329_%284796879783%29.jpg/263px-Crystal_Castles_live_in_Oslo%2C_2010_L1020329_%284796879783%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 374,
+      "bandname": "Shabazz Palaces",
+      "subscribers": 5630,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ishmael_Butler_02_%28cropped%29.jpg/230px-Ishmael_Butler_02_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 375,
+      "bandname": "Nine Inch Nails",
+      "subscribers": 850000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NIN_%40_Aragon%2C_Chicago_10_25_2018_%2846252620014%29.jpg/289px-NIN_%40_Aragon%2C_Chicago_10_25_2018_%2846252620014%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 376,
+      "bandname": "Metric",
+      "subscribers": 228000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Metric_-_Live_at_Coachella_Music_Festival_2013.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 377,
+      "bandname": "The Presidents of the United States of America",
+      "subscribers": 47200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Presidents.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 378,
+      "bandname": "Peaches",
+      "subscribers": 36000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Peaches_performing_in_Wellington%2C_New_Zealand_21_February_2023.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 379,
+      "bandname": "Soundgarden",
+      "subscribers": 773000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Soundgarden_at_Paramount_Theatre.jpg/300px-Soundgarden_at_Paramount_Theatre.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 380,
+      "bandname": "Audioslave",
+      "subscribers": 1020000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Audioslave_2005.jpg/300px-Audioslave_2005.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 381,
+      "bandname": "Stone Temple Pilots",
+      "subscribers": 425000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stone_Temple_Pilots_band_in_Manila.jpg/300px-Stone_Temple_Pilots_band_in_Manila.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 382,
+      "bandname": "Velvet Revolver",
+      "subscribers": 243000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Velvet_Revolver_live_in_London_5_June_2007_01.jpg/300px-Velvet_Revolver_live_in_London_5_June_2007_01.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 383,
+      "bandname": "Radiohead",
+      "subscribers": 3680000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RadioheadMid2010s.jpg/300px-RadioheadMid2010s.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 384,
+      "bandname": "Atoms for Peace",
+      "subscribers": 63500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Atoms_for_peace.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 385,
+      "bandname": "Sting",
+      "subscribers": 1970000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sting_in_April_2018.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 386,
+      "bandname": "The Police",
+      "subscribers": 1760000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ThePolice_2007.jpg/293px-ThePolice_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 387,
+      "bandname": "Harry Styles",
+      "subscribers": 14700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/220px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 388,
+      "bandname": "One Direction",
+      "subscribers": 38500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/300px-One_Direction_Sydney_4.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 389,
+      "bandname": "Justin Timberlake",
+      "subscribers": 10500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Justin_Timberlake_by_Gage_Skidmore_2.jpg/220px-Justin_Timberlake_by_Gage_Skidmore_2.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 390,
+      "bandname": "Britney Spears",
+      "subscribers": 10600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg/200px-Britney_Spears_2013_%28Straighten_Crop%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 391,
+      "bandname": "Bryan Adams",
+      "subscribers": 5860000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20130710-ByanAdamsLucca-0019_%289273168286%29.jpg/220px-20130710-ByanAdamsLucca-0019_%289273168286%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 392,
+      "bandname": "Ryan Adams",
+      "subscribers": 90900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ryan_Adams%2C_Clapham_Common%2C_Calling_Festival%2C_London_%2818991066273%29.jpg/267px-Ryan_Adams%2C_Clapham_Common%2C_Calling_Festival%2C_London_%2818991066273%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 393,
+      "bandname": "Etta James",
+      "subscribers": 314000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Etta_James04.JPG/210px-Etta_James04.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 394,
+      "bandname": "Ella Fitzgerald",
+      "subscribers": 237000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ella_Fitzgerald_1962.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 395,
+      "bandname": "Jeff Beck",
+      "subscribers": 168000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jeff_Beck_in_Amsterdam_1979_%28cropped%29.jpg/220px-Jeff_Beck_in_Amsterdam_1979_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 396,
+      "bandname": "Beck",
+      "subscribers": 487000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BeckMSG190718-13_%2847065153261%29_%28cropped%29.jpg/220px-BeckMSG190718-13_%2847065153261%29_%28cropped%29.jpg",
+      "genre": "None"
     }
   ]
