@@ -2656,5 +2656,383 @@
       "subscribers": 487000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BeckMSG190718-13_%2847065153261%29_%28cropped%29.jpg/220px-BeckMSG190718-13_%2847065153261%29_%28cropped%29.jpg",
       "genre": "None"
+    },
+    {
+      "id": 397,
+      "bandname": "Usher",
+      "subscribers": 7970000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Usher_Cannes_2016_retusche.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 398,
+      "bandname": "Rihanna",
+      "subscribers": 42700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/220px-Rihanna_Fenty_2018.png",
+      "genre": "None"
+    },
+    {
+      "id": 399,
+      "bandname": "The Who",
+      "subscribers": 448000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Who_-_1975.jpg/289px-Who_-_1975.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 400,
+      "bandname": "Bruce Springsteen",
+      "subscribers": 2030000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bruce_Springsteen_-_Roskilde_Festival_2012.jpg/220px-Bruce_Springsteen_-_Roskilde_Festival_2012.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 401,
+      "bandname": "Shakira",
+      "subscribers": 45500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/220px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 402,
+      "bandname": "Jennifer Lopez",
+      "subscribers": 16600000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/210120-D-WD757-1975_%2850860511978%29_%28cropped%29.jpg/220px-210120-D-WD757-1975_%2850860511978%29_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 403,
+      "bandname": "Tomahawk",
+      "subscribers": 6530,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Tomahawk_Boston.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 404,
+      "bandname": "The Sword",
+      "subscribers": 29700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TheSword-ObservatorySantaAnaCA-20130801.JPG/300px-TheSword-ObservatorySantaAnaCA-20130801.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 405,
+      "bandname": "Chamillionaire",
+      "subscribers": 58900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chamillionaire_and_Michael_Arrington_%28cropped%29.jpg/220px-Chamillionaire_and_Michael_Arrington_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 406,
+      "bandname": "Sixpence None the Richer",
+      "subscribers": 207000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/SIXPENCE_NONE_THE_RICHER_prassprasetio-04_%289341822631%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 407,
+      "bandname": "Gogol Bordello",
+      "subscribers": 86600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gogol_Bordello_2014.jpg/220px-Gogol_Bordello_2014.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 408,
+      "bandname": "Bebel Gilberto",
+      "subscribers": 12000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bebel_Gilberto_Budapest.jpg/220px-Bebel_Gilberto_Budapest.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 409,
+      "bandname": "James Taylor",
+      "subscribers": 420000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/James_Taylor_-_Columbia.jpg/220px-James_Taylor_-_Columbia.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 410,
+      "bandname": "Isaac Hayes",
+      "subscribers": 113000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Issac_Hayes_1998.jpg/220px-Issac_Hayes_1998.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 411,
+      "bandname": "Jefferson Airplane",
+      "subscribers": 142000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jefferson_Airplane.jpg/220px-Jefferson_Airplane.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 412,
+      "bandname": "George Harrison",
+      "subscribers": 926000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/George_Harrison_1974_%28cropped%29.jpg/220px-George_Harrison_1974_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 413,
+      "bandname": "The Jackson 5",
+      "subscribers": 541000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jackson_5_tv_special_1972.JPG/260px-Jackson_5_tv_special_1972.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 414,
+      "bandname": "Bryan Adams",
+      "subscribers": 5860000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20130710-ByanAdamsLucca-0019_%289273168286%29.jpg/220px-20130710-ByanAdamsLucca-0019_%289273168286%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 415,
+      "bandname": "Buck-O-Nine",
+      "subscribers": 1680,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Buck-O-Nine.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 416,
+      "bandname": "Buck Cherry",
+      "subscribers": 156000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Buckcherry_19_%2828424045952%29.jpg/300px-Buckcherry_19_%2828424045952%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 417,
+      "bandname": "Jeff Buckley",
+      "subscribers": 487000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Jeff_Buckley.jpg/220px-Jeff_Buckley.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 418,
+      "bandname": "Young Buck",
+      "subscribers": 81200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Young_Buck_Departs_From_LAX_-_cropped.jpg/220px-Young_Buck_Departs_From_LAX_-_cropped.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 419,
+      "bandname": "Buck Owens",
+      "subscribers": 40100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Buck_Owens.jpg/220px-Buck_Owens.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 420,
+      "bandname": "Buckethead",
+      "subscribers": 58300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bucketheadgnr.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 421,
+      "bandname": "Three dog night",
+      "subscribers": 72300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Three_Dog_Night_1972.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 422,
+      "bandname": "Steppenwolf",
+      "subscribers": 76500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Steppenwolf_%281971%29.png",
+      "genre": "None"
+    },
+    {
+      "id": 423,
+      "bandname": "Temple of the dog",
+      "subscribers": 180000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Temple_of_the_Dog_Band_Shot.jpg/220px-Temple_of_the_Dog_Band_Shot.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 424,
+      "bandname": "Bloodhound gang",
+      "subscribers": 637000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Bloodhound_Gang.jpg/260px-The_Bloodhound_Gang.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 425,
+      "bandname": "Nate dogg",
+      "subscribers": 146000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nate_dogg_rapradar_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 426,
+      "bandname": "Wolfmother",
+      "subscribers": 116000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Deichbrand2018-Wolfmother-39.jpg/275px-Deichbrand2018-Wolfmother-39.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 427,
+      "bandname": "Nirvana",
+      "subscribers": 9220000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 428,
+      "bandname": "Guns and roses",
+      "subscribers": 11800000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Glasto2023_Guns_%27N%27_Roses_%28sans_Dave_Grohl%29.jpg/300px-Glasto2023_Guns_%27N%27_Roses_%28sans_Dave_Grohl%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 429,
+      "bandname": "XTC",
+      "subscribers": 17900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/XTC_bandphoto.jpg/300px-XTC_bandphoto.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 430,
+      "bandname": "INXS",
+      "subscribers": 593000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/INXS_performs_at_Campbelltown_RSL_Club%2C_Sydney.jpg/300px-INXS_performs_at_Campbelltown_RSL_Club%2C_Sydney.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 431,
+      "bandname": "Thievery Corporation",
+      "subscribers": 179000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Thievery-Corporation.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 432,
+      "bandname": "Saint Motel",
+      "subscribers": 273000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Saint_Motel.jpg/300px-Saint_Motel.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 433,
+      "bandname": "Train",
+      "subscribers": 1640000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/INXS_TO_ROCK_THE_HUNTER%21_-_Train.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 434,
+      "bandname": "The Cars",
+      "subscribers": 152000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Cars_1980_%28Elektra_Press_Kit_Photo%29.jpg/288px-The_Cars_1980_%28Elektra_Press_Kit_Photo%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 435,
+      "bandname": "Lords of Acid",
+      "subscribers": 21400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Lords_of_Acid_Lust.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 436,
+      "bandname": "Alkaline Trio",
+      "subscribers": 49100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alkaline_Trio_2011-07-20_01.jpg/267px-Alkaline_Trio_2011-07-20_01.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 437,
+      "bandname": "Ice Cube",
+      "subscribers": 3380000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg/220px-Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 438,
+      "bandname": "The Flaming Lips",
+      "subscribers": 117000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flaming_Lips_smog_Coyne_Scurlock.jpg/267px-Flaming_Lips_smog_Coyne_Scurlock.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 439,
+      "bandname": "Vanilla Ice",
+      "subscribers": 838000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vanilla_Ice_2010_%28cropped%29.jpg/220px-Vanilla_Ice_2010_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 440,
+      "bandname": "Chocolate Mc",
+      "subscribers": 274000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/El_influencer_Alexander_Otaola_hace_una_arenga_en_la_Calle_8_en_Miami%2C_Florida%2C_en_apoyo_a_las_protestas_sucedidas_en_la_isla_el_domingo.png",
+      "genre": "None"
+    },
+    {
+      "id": 441,
+      "bandname": "Our Lady Peace",
+      "subscribers": 73400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Our_Lady_Peace_at_Virgin_Festival_Ontario_day_2_2009.JPG/260px-Our_Lady_Peace_at_Virgin_Festival_Ontario_day_2_2009.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 442,
+      "bandname": "Bad Religion",
+      "subscribers": 89400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hellfest2018BadReligion_07.jpg/280px-Hellfest2018BadReligion_07.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 443,
+      "bandname": "Zebrahead",
+      "subscribers": 81600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zebrahead_-_2017203174521_2017-07-22_DAS_FEST_-_Sven_-_1D_X_MK_II_-_0278_-_AK8I0444.jpg/260px-Zebrahead_-_2017203174521_2017-07-22_DAS_FEST_-_Sven_-_1D_X_MK_II_-_0278_-_AK8I0444.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 444,
+      "bandname": "Band of horses",
+      "subscribers": 93500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Band_of_Horses_-_SXSW2006-cropped.jpg/300px-Band_of_Horses_-_SXSW2006-cropped.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 445,
+      "bandname": "Pedro the lion",
+      "subscribers": 3400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pedro-The-Lion-2017.jpg/220px-Pedro-The-Lion-2017.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 446,
+      "bandname": "Portugal the man",
+      "subscribers": 750000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Portugal_The_Man_Atlantic_Maclay_Heriot_%28cropped%29.jpg/220px-Portugal_The_Man_Atlantic_Maclay_Heriot_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 447,
+      "bandname": "Salt-n-Pepa",
+      "subscribers": 438000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Push_It_by_Salt-N-Pepa_single_cover.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 448,
+      "bandname": "The Spice Girls",
+      "subscribers": 1340000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spice_Girls_in_Toronto%2C_Ontario.jpg/225px-Spice_Girls_in_Toronto%2C_Ontario.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 449,
+      "bandname": "The Cult",
+      "subscribers": 78800,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Cult_headlining_Ramblin%27_Man_Fair_2018_%2840576722313%29.jpg/300px-The_Cult_headlining_Ramblin%27_Man_Fair_2018_%2840576722313%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 450,
+      "bandname": "Blue Oyster Cult",
+      "subscribers": 212000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg/300px-Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg",
+      "genre": "None"
     }
   ]
