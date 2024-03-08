@@ -1609,7 +1609,7 @@
     },
     {
       "id": 247,
-      "bandname": "red hot chili peppers",
+      "bandname": "Red Hot Chili Peppers",
       "subscribers": 7680000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/RHCP_Live_in_London_26_June_2022.jpg/300px-RHCP_Live_in_London_26_June_2022.jpg",
       "genre": "None"
@@ -3033,6 +3033,265 @@
       "bandname": "Blue Oyster Cult",
       "subscribers": 212000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg/300px-Blue_%C3%96yster_Cult_-_Wacken_Open_Air_2016-AL1829.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 451,
+      "bandname": "Blind Faith",
+      "subscribers": 11400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blind_Faith_%281969%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 452,
+      "bandname": "Snoop Dogg",
+      "subscribers": 9680000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Snoop_Dogg_in_2021.png/220px-Snoop_Dogg_in_2021.png",
+      "genre": "None"
+    },
+    {
+      "id": 453,
+      "bandname": "Bow Wow",
+      "subscribers": 1580000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bow_Wow_2009.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 454,
+      "bandname": "Hot Dog",
+      "subscribers": 2480,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/220px-Hot_dog_with_mustard.png",
+      "genre": "None"
+    },
+    {
+      "id": 457,
+      "bandname": "Dog Eat Dog",
+      "subscribers": 30200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dog_eat_Dog_%E2%80%93_Reload_Festival_2016_02.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 456,
+      "bandname": "The Dogg Pound",
+      "subscribers": 59900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tha_Dogg_Pound.jpg/220px-Tha_Dogg_Pound.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 455,
+      "bandname": "Dogs D'Amour",
+      "subscribers": 1640,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tyla.jpg/280px-Tyla.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 458,
+      "bandname": "King Crimson",
+      "subscribers": 370000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Uncertain_Times_Japan_Tour_2018_Photo_5_%28cropped%29.jpg/300px-Uncertain_Times_Japan_Tour_2018_Photo_5_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 459,
+      "bandname": "The Kingsmen",
+      "subscribers": 8610,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Kingsmen.jpg/220px-Kingsmen.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 460,
+      "bandname": "The King's Singers",
+      "subscribers": 103000,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 461,
+      "bandname": "King Diamond",
+      "subscribers": 33500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tuska_20130628_-_King_Diamond_-_27_%28Cropped%29.jpg/220px-Tuska_20130628_-_King_Diamond_-_27_%28Cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 462,
+      "bandname": "King Gizzard & the Lizard Wizard",
+      "subscribers": 259000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/King_Gizzard_2019.jpg/300px-King_Gizzard_2019.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 463,
+      "bandname": "Kings of Leon",
+      "subscribers": 1840000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kings_of_Leon_Hyde_Park.jpg/280px-Kings_of_Leon_Hyde_Park.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 464,
+      "bandname": "Queen",
+      "subscribers": 17500000,
+      "imageUrl": "",
+      "genre": "None"
+    },
+    {
+      "id": 465,
+      "bandname": "Queen Latifah",
+      "subscribers": 426000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Queen_Latifah_2018.jpg/220px-Queen_Latifah_2018.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 466,
+      "bandname": "Queensrÿche",
+      "subscribers": 222000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Queensryche_London_Bridge_Studios.jpg/300px-Queensryche_London_Bridge_Studios.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 467,
+      "bandname": "Queens of the Stone Age",
+      "subscribers": 791000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Queens_of_the_Stone_Age_-_SSE_Arena_Wembley_-_Saturday_18th_November_2017_QOTSAWembley181117-29_%2824730972488%29.jpg/300px-Queens_of_the_Stone_Age_-_SSE_Arena_Wembley_-_Saturday_18th_November_2017_QOTSAWembley181117-29_%2824730972488%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 468,
+      "bandname": "Queen Adreena",
+      "subscribers": 1440,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Queen_Adreena_2006-03-07_03.jpg/250px-Queen_Adreena_2006-03-07_03.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 469,
+      "bandname": "Queen Kwong",
+      "subscribers": 173,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Queen_Kwong_in_London.jpg/220px-Queen_Kwong_in_London.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 470,
+      "bandname": "Jack Johnson",
+      "subscribers": 809000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jack_Johnson_2014.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 471,
+      "bandname": "Jack White",
+      "subscribers": 482000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jack_White_Photo_2021_%28cropped%29.jpg/220px-Jack_White_Photo_2021_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 472,
+      "bandname": "Jack's Mannequin",
+      "subscribers": 24700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jacks_Mannequin_at_the_930_Club_In_DC.JPG/260px-Jacks_Mannequin_at_the_930_Club_In_DC.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 473,
+      "bandname": "Jack Off Jill",
+      "subscribers": 14000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jessicka_blood_stage.jpg/220px-Jessicka_blood_stage.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 474,
+      "bandname": "Jack Ü",
+      "subscribers": 3280000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jack_%C3%9C_Logo1.png/220px-Jack_%C3%9C_Logo1.png",
+      "genre": "None"
+    },
+    {
+      "id": 475,
+      "bandname": "Jack Stauber",
+      "subscribers": 497000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/YouTube_Silver_Play_Button_2.svg/32px-YouTube_Silver_Play_Button_2.svg.png",
+      "genre": "None"
+    },
+    {
+      "id": 476,
+      "bandname": "BTS",
+      "subscribers": 77500000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/300px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 477,
+      "bandname": "BLACKPINK",
+      "subscribers": 93100000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blackpink_Coachella_2023_02_%28cropped%29.jpg/300px-Blackpink_Coachella_2023_02_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 478,
+      "bandname": "TWICE",
+      "subscribers": 16900000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Twice_-_Dickies_Arena%2C_2022_%28cropped%29.jpg/300px-Twice_-_Dickies_Arena%2C_2022_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 479,
+      "bandname": "EXO",
+      "subscribers": 9630000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Exo_monster_160618_suwon.png/300px-Exo_monster_160618_suwon.png",
+      "genre": "None"
+    },
+    {
+      "id": 480,
+      "bandname": "Red Velvet",
+      "subscribers": 5420000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Red_Velvet_at_The_Shilla_Duty_Free_Beauty%26You%E2%80%99s_first_anniversary_on_July_30%2C_2019.png",
+      "genre": "None"
+    },
+    {
+      "id": 481,
+      "bandname": "GOT7",
+      "subscribers": 6220000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Got7_cheering_video_for_JYPE_16th_audition_01.jpg/300px-Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 482,
+      "bandname": "ABBA",
+      "subscribers": 4840000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ABBA_-_TopPop_1974_5.png/235px-ABBA_-_TopPop_1974_5.png",
+      "genre": "None"
+    },
+    {
+      "id": 483,
+      "bandname": "AC/DC",
+      "subscribers": 10400000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AC_DC_Black_Ice_Tour_2009_Buenos_Aires_6_de_Diciembre_%284238189133%29.jpg/300px-AC_DC_Black_Ice_Tour_2009_Buenos_Aires_6_de_Diciembre_%284238189133%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 484,
+      "bandname": "NWA",
+      "subscribers": 1040000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/NWA%2C_all_band_members.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 485,
+      "bandname": "ELO",
+      "subscribers": 848000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/ELO_-_Time_Tour_81-82.jpg/299px-ELO_-_Time_Tour_81-82.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 486,
+      "bandname": "OK GO",
+      "subscribers": 1080000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/OK_Go_at_Lotusphere_2012.jpg/300px-OK_Go_at_Lotusphere_2012.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 487,
+      "bandname": "A-HA",
+      "subscribers": 1890000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/300px-A-haVistalegre19.JPG",
       "genre": "None"
     }
   ]
