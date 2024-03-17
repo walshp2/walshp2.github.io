@@ -3293,5 +3293,299 @@
       "subscribers": 1890000,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/300px-A-haVistalegre19.JPG",
       "genre": "None"
+    },
+    {
+      "id": 488,
+      "bandname": "The Pogues",
+      "subscribers": 183000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Pogues_1.jpg/220px-The_Pogues_1.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 489,
+      "bandname": "The Dubliners",
+      "subscribers": 122000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/The_original_dubliners.jpg/220px-The_original_dubliners.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 490,
+      "bandname": "Flogging Molly",
+      "subscribers": 83200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flogging_Molly_%E2%80%93_Reload_Festival_2015_02.jpg/260px-Flogging_Molly_%E2%80%93_Reload_Festival_2015_02.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 491,
+      "bandname": "Dropkick Murphys",
+      "subscribers": 523000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DKMshamrock.jpg/300px-DKMshamrock.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 492,
+      "bandname": "The Tossers",
+      "subscribers": 2120,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Tossers_Live.jpg/200px-The_Tossers_Live.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 493,
+      "bandname": "Black 47",
+      "subscribers": 1560,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Larry_Kirwan_at_Dublin_Irish_Fest.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 494,
+      "bandname": "Toto",
+      "subscribers": 1110000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/TOTO_live_2010_in_Copenhagen_in_KB_Hallen.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 495,
+      "bandname": "Steely Dan",
+      "subscribers": 215000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Becker_%26_Fagen_of_Steely_Dan_at_Pori_Jazz_2007.jpg/250px-Becker_%26_Fagen_of_Steely_Dan_at_Pori_Jazz_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 496,
+      "bandname": "Hall & Oates",
+      "subscribers": 731000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hall_And_Oates_with_Chris_Isaak_-_The_O2_-_Saturday_28th_October_2017_HallOatesO2281017-55_%2837601716094%29.jpg/300px-Hall_And_Oates_with_Chris_Isaak_-_The_O2_-_Saturday_28th_October_2017_HallOatesO2281017-55_%2837601716094%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 497,
+      "bandname": "Chicago",
+      "subscribers": 1350000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/288px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 498,
+      "bandname": "Doobie Brothers",
+      "subscribers": 229000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Steely_Dan_With_The_Doobie_Brothers_-_The_O2_-_Sunday_29th_October_2017_SteelyDanO2291017-2_%2838047867141%29.jpg/300px-Steely_Dan_With_The_Doobie_Brothers_-_The_O2_-_Sunday_29th_October_2017_SteelyDanO2291017-2_%2838047867141%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 499,
+      "bandname": "Little River Band",
+      "subscribers": 50300,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Classic_Little_River_Band.jpg/220px-Classic_Little_River_Band.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 500,
+      "bandname": "Poison",
+      "subscribers": 431000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Poison2.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 501,
+      "bandname": "Whitesnake",
+      "subscribers": 376000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Whitesnake_Helsinki_2022_03.jpg/300px-Whitesnake_Helsinki_2022_03.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 502,
+      "bandname": "Ratt",
+      "subscribers": 16700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glam_metal_band_Ratt.jpg/300px-Glam_metal_band_Ratt.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 503,
+      "bandname": "Def Leppard",
+      "subscribers": 1250000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Def_Leppard_2018.jpg/270px-Def_Leppard_2018.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 504,
+      "bandname": "Skid Row",
+      "subscribers": 186000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Skid_Row_en_el_Rock_Imperium_Festival_%2820230626_004743%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 505,
+      "bandname": "Cinderella",
+      "subscribers": 490000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Offterdinger_Aschenbrodel_%281%29.jpg/220px-Offterdinger_Aschenbrodel_%281%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 506,
+      "bandname": "The Posies",
+      "subscribers": 2030,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The-Posies-2009-%28Taste-of-Randolph-Street%29.jpg/220px-The-Posies-2009-%28Taste-of-Randolph-Street%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 507,
+      "bandname": "The Rentals",
+      "subscribers": 1700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Matt_Sharp_The_Rentals_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 508,
+      "bandname": "Squeeze",
+      "subscribers": 36400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Squeeze_2021-09-14.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 509,
+      "bandname": "The Lemonheads",
+      "subscribers": 8720,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Lemonheads.jpg/275px-The_Lemonheads.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 510,
+      "bandname": "Guster",
+      "subscribers": 33500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guster_at_FleetBoston_Pavil.jpg/300px-Guster_at_FleetBoston_Pavil.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 511,
+      "bandname": "Fountains of Wayne",
+      "subscribers": 19400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fountains_of_Wayne_live_2007.jpg/220px-Fountains_of_Wayne_live_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 512,
+      "bandname": "Insane Clown Posse",
+      "subscribers": 909000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Insane_clown_posse_2017.jpg/264px-Insane_clown_posse_2017.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 513,
+      "bandname": "GWAR",
+      "subscribers": 73100,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gwar_%28Riot_Fest%2C_2014%29_2.jpg/267px-Gwar_%28Riot_Fest%2C_2014%29_2.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 514,
+      "bandname": "Slipknot",
+      "subscribers": 8310000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SlipKnot.jpg/220px-SlipKnot.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 515,
+      "bandname": "Marilyn Manson",
+      "subscribers": 3710000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marilyn_Manson_Live_in_Roma_25_july_2017-_44_%28cropped%29.jpg/220px-Marilyn_Manson_Live_in_Roma_25_july_2017-_44_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 516,
+      "bandname": "Twisted Sister",
+      "subscribers": 599000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Twisted_Sister_-_Wacken_Open_Air_2016-AL3864.jpg/289px-Twisted_Sister_-_Wacken_Open_Air_2016-AL3864.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 517,
+      "bandname": "KISS",
+      "subscribers": 2770000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kiss_at_backstage_%281975%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 518,
+      "bandname": "Simon & Garfunkel",
+      "subscribers": 878000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SimonandGarfunkel.jpg/283px-SimonandGarfunkel.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 519,
+      "bandname": "Oasis",
+      "subscribers": 4260000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Oasis_Liam_and_Noel.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 520,
+      "bandname": "The Police",
+      "subscribers": 71400,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ThePolice_2007.jpg/293px-ThePolice_2007.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 521,
+      "bandname": "The Smiths",
+      "subscribers": 282000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Smiths_1985.jpg/260px-The_Smiths_1985.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 522,
+      "bandname": "Pink Floyd",
+      "subscribers": 4000000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 523,
+      "bandname": "Talking Heads",
+      "subscribers": 203000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg/220px-Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 524,
+      "bandname": "DMX",
+      "subscribers": 2570000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DMX.rapper_%28cropped%29.jpg/220px-DMX.rapper_%28cropped%29.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 525,
+      "bandname": "R. Kelly",
+      "subscribers": 629000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/R._Kelly_in_2017.png/220px-R._Kelly_in_2017.png",
+      "genre": "None"
+    },
+    {
+      "id": 526,
+      "bandname": "James Brown",
+      "subscribers": 922000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/James_Brown_Live_Hamburg_1973_1702730029.jpg/220px-James_Brown_Live_Hamburg_1973_1702730029.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 527,
+      "bandname": "Johnny Cash",
+      "subscribers": 1700000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/220px-Johnny_Cash_1977.jpg",
+      "genre": "None"
+    },
+    {
+      "id": 528,
+      "bandname": "Rick James",
+      "subscribers": 152,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rick_James_in_Lifestyles_of_the_Rich_1984.JPG/220px-Rick_James_in_Lifestyles_of_the_Rich_1984.JPG",
+      "genre": "None"
+    },
+    {
+      "id": 529,
+      "bandname": "George Michael",
+      "subscribers": 3300000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/220px-George_Michael.jpeg",
+      "genre": "None"
     }
   ]
